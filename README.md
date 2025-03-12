@@ -42,5 +42,10 @@ ros2 run turtlesim turtlesim_node
 
 ```bash
 ros2 run pap_oah_random houses [number_of_houses 1-3]
+```
+
+#### For example:
+```bash
 ros2 run pap_oah_random houses 2
 ```
+
