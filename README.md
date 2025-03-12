@@ -49,3 +49,9 @@ ros2 run pap_oah_random houses [number_of_houses 1-3]
 ros2 run pap_oah_random houses 2
 ```
 
+![image](https://github.com/user-attachments/assets/88965f50-ea7c-4072-a584-fdc7f1a1c40b)
+
+### In case of incorrect attribute
+![image](https://github.com/user-attachments/assets/c9246ca6-3563-4c3c-a82a-92fdfeb4ebad)
+![image](https://github.com/user-attachments/assets/3d8d2931-2eb4-448b-b6fe-a1d0bd72d4a5)
+
